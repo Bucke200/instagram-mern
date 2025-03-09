@@ -21,7 +21,7 @@ if (process.env.NODE_ENV === 'production') {
 }
 
 const server = app.listen(PORT, () => {
-    console.log(`Server Running on http://localhost:${PORT}`);
+    console.log(`Server Running on https://instagram-mern-f32h.onrender.com`);
 });
 
 
